@@ -8,5 +8,6 @@ Techstack: <br />
 - Solidity 
 - JavaScript 
 - React.js 
-- Bootstrap <br />
+- Bootstrap
+<br />
 Tutorial: https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
